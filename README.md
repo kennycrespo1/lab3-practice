@@ -9,3 +9,13 @@ int main() {
 
     std:: cout << "Hello World>>
 }
+
+
+//Hacer una pequena suma
+
+int x = 5;
+int y = 5;
+int result;
+
+std:: cout << "Result is: << result << endl;
+
