@@ -15,7 +15,7 @@ int main() {
 
 int x = 5;
 int y = 5;
-int result;
+int result x + y;
 
 std:: cout << "Result is: << result << endl;
 
